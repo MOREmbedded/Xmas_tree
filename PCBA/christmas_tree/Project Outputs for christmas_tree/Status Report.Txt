@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [christmas_tree.PrjPcb]
+   Generated File[christmas_tree.GBO]
+   Generated File[christmas_tree.RUL]
+   Generated File[christmas_tree.EXTREP]
+   Generated File[christmas_tree.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 08:49:30 On 13/12/2016

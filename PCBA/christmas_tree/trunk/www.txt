@@ -1,0 +1,13 @@
+http://www.st.com/en/evaluation-tools/steval-ill061v1.html?ecmp=pf259630_enews_powermngenews_may2014&sp_rid=NjkwODIzNTIxODUS1&sp_mid=8951011
+http://www.stm32.eu/node/385
+http://www.st.com/content/ccc/resource/technical/document/user_manual/19/01/d7/a7/8c/0c/4f/64/DM00100994.pdf/files/DM00100994.pdf/jcr:content/translations/en.DM00100994.pdf
+http://www.st.com/content/ccc/resource/technical/document/bill_of_materials/e3/c7/27/16/e3/f5/45/02/steval-ill061v1_bom.pdf/files/steval-ill061v1_bom.pdf/jcr:content/translations/en.steval-ill061v1_bom.pdf
+http://www.st.com/content/ccc/resource/technical/layouts_and_diagrams/schematic_pack/67/d0/62/e0/35/a4/41/d1/steval-ill061v1_schematic.pdf/files/steval-ill061v1_schematic.pdf/jcr:content/translations/en.steval-ill061v1_schematic.pdf
+https://www.element14.com/community/thread/38034/l/stm32-mcus-programming?displayFullThread=true
+http://www.st.com/content/ccc/resource/technical/document/user_manual/1b/03/1b/b4/88/20/4e/cd/DM00105928.pdf/files/DM00105928.pdf/jcr:content/translations/en.DM00105928.pdf
+http://www.emcu.it/STM32.html#TUTORIAL_and_SW_examples
+http://www.st.com/content/ccc/resource/technical/layouts_and_diagrams/schematic_pack/67/d0/62/e0/35/a4/41/d1/steval-ill061v1_schematic.pdf/files/steval-ill061v1_schematic.pdf/jcr:content/translations/en.steval-ill061v1_schematic.pdf
+http://www.st.com/en/development-tools/st-link.html
+https://community.st.com/community/stm32-community/stm32-forum/content?RootFolder=https%3a%2f%2fmy%2est%2ecom%2fpublic%2fSTe2ecommunities%2fmcu%2fLists%2fcortex_mx_stm32%2fST-LINK%20V2%20does%20not%20flash%20in%20IAR%206%2e50%2e3&FolderCTID=0x01200200770978C69A1141439FE559EB459D7580009C4E14902C3CDE46A77F0FFD06506F5B&currentviews=1808
+http://www.st.com/en/development-tools/st-link-v2.html
+http://www.st.com/content/st_com/en/products/embedded-software/development-tool-software/stsw-link009.html

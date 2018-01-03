@@ -1,0 +1,22 @@
+H optimize n staggered n
+$0 $NONE$
+$1 GND
+#
+#Netlist points
+#
+1 0.0629922 6.7913386 5.2165354 B e e staggered 0 0 0
+1 0.02 7.6850394 5.6858268 B e e staggered 0 0 0
+1 0.02 7.6850394 5.7858268 B e e staggered 0 0 0
+1 0.02 7.6850394 5.8858268 B e e staggered 0 0 0
+1 0.02 7.6889764 6.6818898 B e e staggered 0 0 0
+1 0.0629922 6.7913386 7.3031496 B e e staggered 0 0 0
+1 0.02 7.6889764 6.7818898 B e e staggered 0 0 0
+1 0.02 7.6889764 6.8818898 B e e staggered 0 0 0
+1 0.02 7.996063 5.6913386 B e e staggered 0 0 0
+1 0.02 7.996063 5.7913386 B e e staggered 0 0 0
+1 0.0629922 8.8779528 5.2165354 B e e staggered 0 0 0
+1 0.02 7.996063 5.8913386 B e e staggered 0 0 0
+1 0.02 7.996063 6.6795276 B e e staggered 0 0 0
+1 0.02 7.996063 6.7795276 B e e staggered 0 0 0
+1 0.02 7.996063 6.8795276 B e e staggered 0 0 0
+1 0.0629922 8.8779528 7.3031496 B e e staggered 0 0 0

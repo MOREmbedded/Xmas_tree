@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: christmas_tree.PcbDoc   13/12/2016  08:42:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : christmas_tree.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             4         PTH        3.61mm (0.14inch)
+T2      0.4mm (16mil)                                             Round             199       PTH        1628.38mm (64.11inch)
+T3      0.6mm (24mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T4      0.965mm (38mil)                                           Round             20        PTH        48.26mm (1.90inch)
+T5      1mm (39mil)                                               Round             8         PTH        519.83mm (20.47inch)
+T6      1.016mm (40mil)                                           Round             33        PTH        698.42mm (27.50inch)
+T7      0.9mm (35mil)                                             Round             6         NPTH       84.24mm (3.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              272
+
+Total Processing Time (hh:mm:ss) : 00:00:00

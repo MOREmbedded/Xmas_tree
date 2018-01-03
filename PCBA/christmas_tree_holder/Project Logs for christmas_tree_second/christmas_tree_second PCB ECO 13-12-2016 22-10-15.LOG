@@ -1,0 +1,26 @@
+Added Component: Designator=JMP1(CON-HDR_3X1X254)
+Added Component: Designator=JMP2(CON-HDR_3X1X254)
+Added Component: Designator=JMP3(CON-HDR_3X1X254)
+Added Component: Designator=JMP4(CON-HDR_3X1X254)
+Added Component: Designator=MH1(HOLE-3-2MM)
+Added Component: Designator=MH2(HOLE-3-2MM)
+Added Component: Designator=MH3(HOLE-3-2MM)
+Added Component: Designator=MH4(HOLE-3-2MM)
+Added Pin To Net: NetName=GND Pin=JMP1-1
+Added Pin To Net: NetName=GND Pin=JMP1-2
+Added Pin To Net: NetName=GND Pin=JMP1-3
+Added Pin To Net: NetName=GND Pin=JMP2-1
+Added Pin To Net: NetName=GND Pin=JMP2-2
+Added Pin To Net: NetName=GND Pin=JMP2-3
+Added Pin To Net: NetName=GND Pin=JMP3-1
+Added Pin To Net: NetName=GND Pin=JMP3-2
+Added Pin To Net: NetName=GND Pin=JMP3-3
+Added Pin To Net: NetName=GND Pin=JMP4-1
+Added Pin To Net: NetName=GND Pin=JMP4-2
+Added Pin To Net: NetName=GND Pin=JMP4-3
+Added Pin To Net: NetName=GND Pin=MH1-1
+Added Pin To Net: NetName=GND Pin=MH2-1
+Added Pin To Net: NetName=GND Pin=MH3-1
+Added Pin To Net: NetName=GND Pin=MH4-1
+Added Net: Name=GND
+Added Class: Name=christmas_tree_second

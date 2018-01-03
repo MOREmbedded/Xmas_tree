@@ -1,0 +1,7 @@
+Change Net Color : Old Net Color=RGB(0, 190, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Added Room: Name=additional_leds
+Added Room: Name=driver_led
+Added Room: Name=mcu_power
